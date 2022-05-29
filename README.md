@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋,
+
+I'm Giovanni Rodrigues, robotics & software engineering student from Brazil, interested in contribuiting to the advancement of the digitized world, mainly participating in the development of robust robotic systems, creating impactful IoT systems and using the power provided by AI algorithms.
+
+### Languages
+<p>
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/>
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-FF9900?style=for-the-badge&logo=matlab&logoColor=white" height="30"/>
+</p>
 
 <!--
 **giovannirdias/giovannirdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
