@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-I'm Giovanni Rodrigues, robotics & software engineering student from Brazil, interested in contribuiting to the advancement of the digitized world, mainly participating in the development of robust robotic systems, creating impactful IoT systems and using the power provided by AI algorithms.
+I'm Giovanni Rodrigues, a robotics & software engineering student from Brazil, interested in contributing to the advancement of the digitized world, mainly participating in the development of robust robotic systems, creating impactful IoT systems, and using the power provided by AI algorithms.
 
 ### Languages
 <p>
