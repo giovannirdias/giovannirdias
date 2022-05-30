@@ -8,7 +8,7 @@ I'm Giovanni Rodrigues, a robotics & software engineering student from Brazil, i
 - A [simulation of 5-DOF robot arm](https://github.com/giovannirdias/IEEE-RASArm) in ROS framework, building the motion description and control systems with the university's IEEE club.
 - Building a follower line robot for competitions with the robotics team of university.
 - Creating some computer vision projects using OpenCV.
-- Developing a mobile robot in ROS using reinforcment learning, SLAM and deep learning concepts for specific tasks.
+- Developing a mobile robot in ROS using reinforcement learning, SLAM and deep learning concepts for specific tasks.
 - Python games for develop my skills with this language and using AI algorithms for automatically resolutions.
 - Some data sciences projects for learning about data analysis and ML algorithms.
 
