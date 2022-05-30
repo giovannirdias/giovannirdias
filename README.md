@@ -2,7 +2,7 @@
 
 I'm Giovanni Rodrigues, a robotics & software engineering student from Brazil, interested in contributing to the advancement of the digitized world.
 
-:robot: My main interests are related to robotics, IoT, electronics, applied AI and control systems. :robot:
+:robot: My main interests are related to robotics, IoT, electronics, applied AI and control systems.
 
 💻 I'm currently working on some individual and group projects such as:
 - A [simulation of 5-DOF robot arm](https://github.com/giovannirdias/IEEE-RASArm) in ROS framework, building the motion description and control systems with the university's IEEE club.
@@ -35,6 +35,14 @@ I'm Giovanni Rodrigues, a robotics & software engineering student from Brazil, i
     <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" height="30"/>
     <img alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" height="30"/>
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30"/>
+</p>
+
+### 3D & electronic circuits simulator software's
+<p>
+    <img alt="Fusion 360" src="https://img.shields.io/badge/Fusion_360-E95420?style=for-the-badge&logo=fusion_360&logoColor=white" height="20"/>
+    <img alt="EasyEDA" src="https://img.shields.io/badge/EasyEDA-3498DB?style=for-the-badge&logo=easyeda&logoColor=white" height="20"/>
+    <img alt="Inventor" src="https://img.shields.io/badge/Inventor-F37626?style=for-the-badge&logo=inventor&logoColor=white" height="20"/>
+    <img alt="LTSpiece" src="https://img.shields.io/badge/LTSpiece-DC322F?style=for-the-badge&logo=ltspiece&logoColor=white" height="20"/>
 </p>
 
 ### Currently learning
