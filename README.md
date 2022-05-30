@@ -2,8 +2,21 @@
 
 I'm Giovanni Rodrigues, a robotics & software engineering student from Brazil, interested in contributing to the advancement of the digitized world.
 
-:robot: My main interests are related to robotics, IoT, electronics, applied AI and control systems.
+:robot: My main interests are related to robotics, IoT, electronics, applied AI and control systems. :robot:
 
+💻 I'm currently working on some individual and group projects such as:
+- A [simulation of 5-DOF robot arm](https://github.com/giovannirdias/IEEE-RASArm) in ROS framework, building the motion description and control systems with the university's IEEE club.
+- Building a follower line robot for competitions with the robotics team of university.
+- Creating some computer vision projects using OpenCV.
+- Developing a mobile robot in ROS using reinforcment learning, SLAM and deep learning concepts for specific tasks.
+- Python games for develop my skills with this language and using AI algorithms for automatically resolutions.
+- Some data sciences projects for learning about data analysis and ML algorithms.
+
+### 📫 Find me on
+<p align="left">
+    <a href="https://www.linkedin.com/in/giovanni-rodrigues-dias-76b292232/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
+    <a href="https://medium.com/@giovannirdias085" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="20"/></a>    
+</p>
 
 ## Skills
 ### Languages
@@ -42,18 +55,21 @@ I'm Giovanni Rodrigues, a robotics & software engineering student from Brazil, i
 
 ### Future goals
 <p>
-    <img alt="Android" src="" height=""/>
-    <img alt="AWS" src="" height=""/>
-    <img alt="Docker" src="" height=""/>
-    <img alt="Java" src="" height=""/>
-    <img alt="JavaScript" src="" height=""/>
-    <img alt="Julia" src="" height=""/>
-    <img alt="Keras" src="" height=""/>
-    <img alt="MySQL" src="" height=""/>
-    <img alt="PyCharm" src="" height=""/>
-    <img alt="PyTorch" src="" height=""/>
-    <img alt="VSCode" src="" height=""/>
+    <img alt="Android" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/511px-Android_robot.svg.png?20180121030125" height="50"/>
+    <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50"/>
+    <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50"/> 
+    <img alt="Java" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="50"/>
+    <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50"/>
+    <img alt="Julia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/512px-Julia_Programming_Language_Logo.svg.png" height="50"/>
+    <img alt="Keras" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png?20200317115153" height="50"/>
+    <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50"/>
+    <img alt="PyCharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" height="50"/>
+    <img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/488px-PyTorch_logo_black.svg.png?20200318230141" height="50"/>
+    <img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png" height="50"/>
 </p>
+
+#### Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=giovannirdias&show_icons=true&theme=dark)
 
 <!--
 **giovannirdias/giovannirdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
