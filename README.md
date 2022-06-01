@@ -14,7 +14,7 @@ I'm Giovanni Rodrigues, a robotics & software engineering student from Brazil, i
 
 ### 📫 Find me on
 <p align="left">
-    <a href="https://www.linkedin.com/in/giovanni-rodrigues-dias-76b292232/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
+    <a href="https://www.linkedin.com/in/giovanni-rd/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
     <a href="https://medium.com/@giovannirdias085" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="20"/></a>    
 </p>
 
