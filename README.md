@@ -59,6 +59,7 @@ I'm Giovanni Rodrigues, a robotics & software engineering student from Brazil, i
     <img alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" height="50"/>
     <img alt="Sublime Text" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Breezeicons-apps-48-sublime-text.svg/48px-Breezeicons-apps-48-sublime-text.svg.png?20190801073906" height="50"/>
     <img alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="50"/>
+    <img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png" height="50"/>
 </p>
 
 ### Future goals
@@ -73,7 +74,6 @@ I'm Giovanni Rodrigues, a robotics & software engineering student from Brazil, i
     <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50"/>
     <img alt="PyCharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" height="50"/>
     <img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/488px-PyTorch_logo_black.svg.png?20200318230141" height="50"/>
-    <img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png" height="50"/>
 </p>
 
 #### Stats
